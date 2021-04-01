@@ -5847,9 +5847,10 @@ react-native-navigation@^6.6.0:
     react-lifecycles-compat "2.0.0"
     tslib "1.9.3"
 
-"react-native-opencv3@https://github.com/adamgf/react-native-opencv3":
+"react-native-opencv3@https://github.com/TeamMobileEyeTracker/react-native-opencv3":
   version "1.0.7"
-  resolved "https://github.com/adamgf/react-native-opencv3#d04d20251df7b30aac547dfacc64dbbd91e2bd11"
+  uid d4f5f53b1ddee7a228df2743a5c74135103642da
+  resolved "https://github.com/TeamMobileEyeTracker/react-native-opencv3#d4f5f53b1ddee7a228df2743a5c74135103642da"
 
 react-native-reanimated@^1.8.0:
   version "1.8.0"
@@ -7452,9 +7453,9 @@ xtend@~4.0.1:
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 "y18n@^3.2.1 || ^4.0.0", y18n@^4.0.0:
   version "4.0.0"
